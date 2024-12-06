@@ -1,7 +1,7 @@
 package tree;
 
 //hej det här är en liten it
-
+//banana
 
 /**
  * This is a node in a binary search tree. The node holds an integer value.
