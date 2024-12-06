@@ -2,6 +2,8 @@ package tree;
 
 import tree.MyNode;
 
+//hej måns
+
 /**
  * This is a binary search tree. The tree holds integer valued nodes.
  * hej
