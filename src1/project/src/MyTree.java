@@ -5,7 +5,7 @@ import tree.MyNode;
 //hej sara
 
 //hej måns
-//strikt på riktigt
+//strikt på riktigt 2
 /**
  * This is a binary search tree. The tree holds integer valued nodes.
  * bug fixxxx
