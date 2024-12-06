@@ -6,6 +6,7 @@ import tree.MyNode;
 
 //hej måns
 //strikt på riktigt 2
+//nu testar jag git fetch
 /**
  * This is a binary search tree. The tree holds integer valued nodes.
  * bug fixxxx
