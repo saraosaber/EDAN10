@@ -3,7 +3,7 @@ package tree;
 import tree.MyNode;
 
 //hej måns
-
+//strikt
 /**
  * This is a binary search tree. The tree holds integer valued nodes.
  * bug fixxxx
