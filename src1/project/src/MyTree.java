@@ -8,6 +8,11 @@ import tree.MyNode;
 //strikt
 /**
  * This is a binary search tree. The tree holds integer valued nodes.
+//hej måns
+
+/**
+ * This is a binary search tree. The tree holds integer valued nodes.
+ *
  * bug fixxxx
  * @author Torbjorn Ekman
  * @see MyNode
